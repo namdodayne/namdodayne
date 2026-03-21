@@ -4,7 +4,7 @@
 
 Here are some ideas to get I started:
 
-- 🔭 I’m currently working on SNP - VSEC
+- 🔭 I’m currently working on SNP
 - 🌱 I’m currently learning Information Assurance
 - 👯 I’m looking to collaborate on Pentester - Red team | OSCP
 - 🤔 I’m looking for help with Cyber Security and Application Security
