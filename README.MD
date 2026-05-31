@@ -54,9 +54,8 @@
 ## 📫 Connect
 
 - GitHub: @namdodayne
-- Email: your-email@example.com
-- LinkedIn: your-linkedin-url
-- Blog / Writeups: your-blog-url
+- Email: namdodayne.it+github@gmail.com
+- Telegram: @namdodayne
 
 ---
 
