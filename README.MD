@@ -11,12 +11,11 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Security-AppSec%20%7C%20Pentest%20%7C%20Red%20Team-red?style=for-the-badge" alt="Security Badge" />
-  <img src="https://img.shields.io/badge/Status-Learning%20%26%20Building-blue?style=for-the-badge" alt="Status Badge" />
 </p>
 
 ---
 
-## 🔐 Security Focus
+## Security Focus
 
 - Web Application Security
 - Pentesting & Red Team basics
@@ -24,14 +23,14 @@
 - Secure coding awareness
 - CTFs and hands-on labs
 
-## 🚀 What I'm Working On
+## What I'm Working On
 
 - Improving my offensive security workflow
 - Building a stronger AppSec mindset
 - Practicing lab-based enumeration and exploitation
 - Documenting findings and writeups
 
-## 🧰 Tech & Tools
+## Tech & Tools
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=linux,bash,python,js,nodejs,git,github,vscode,gcp" />
@@ -39,18 +38,16 @@
 
 <p align="left">
   <img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" alt="Burp Suite" />
-  <img src="https://img.shields.io/badge/Claude-181717?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude" />
-  <img src="https://img.shields.io/badge/Hermes%20Agent-6E56CF?style=for-the-badge&logo=genericdatascience&logoColor=white" alt="Hermes Agent" />
 </p>
 
-## 🧠 Currently Exploring
+## Currently Exploring
 
 - Threat modeling
 - Web exploitation techniques
 - Secure architecture
 - Defensive awareness for real-world systems
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <a href="./stats.md">
@@ -58,7 +55,7 @@
   </a>
 </p>
 
-## 📫 Connect
+## Connect
 
 - GitHub: @namdodayne
 - Email: namdodayne.it+github@gmail.com
