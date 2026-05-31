@@ -6,6 +6,8 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Security-AppSec%20%7C%20Pentest%20%7C%20Red%20Team-red?style=for-the-badge" alt="Security Badge" />
+  <img src="https://img.shields.io/badge/STATUS-ONLINE-00ff88?style=for-the-badge&logo=github" alt="STATUS ONLINE" />
+  <img src="https://img.shields.io/badge/MODE-HACKER-ff2bd6?style=for-the-badge&logo=securityscorecard&logoColor=white" alt="HACKER MODE" />
 </p>
 
 ---
@@ -30,11 +32,6 @@
 </p>
 
 ## Stats
-
-<p align="center">
-  <img src="https://img.shields.io/badge/STATUS-ONLINE-00ff88?style=for-the-badge&logo=github" alt="STATUS ONLINE" />
-  <img src="https://img.shields.io/badge/MODE-HACKER-ff2bd6?style=for-the-badge&logo=securityscorecard&logoColor=white" alt="HACKER MODE" />
-</p>
 
 <table align="center" width="100%">
   <tr>
