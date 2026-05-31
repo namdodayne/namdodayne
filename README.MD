@@ -69,9 +69,7 @@
 
 ## Connect
 
-- GitHub: @namdodayne
-- Email: namdodayne.it+github@gmail.com
-- Telegram: @namdodayne
+- Tele: namdodayne
 
 ---
 
