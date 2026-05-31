@@ -47,11 +47,11 @@
 - Secure architecture
 - Defensive awareness for real-world systems
 
-## GitHub Stats
+## Stats
 
 <p align="center">
   <a href="./stats.md">
-    <img src="https://img.shields.io/badge/GitHub%20Stats-Open%20Stats%20Page-blue?style=for-the-badge&logo=github" alt="Open stats page" />
+    <img src="https://img.shields.io/badge/Stats-Open%20Stats%20Page-blue?style=for-the-badge&logo=github" alt="Open stats page" />
   </a>
 </p>
 
