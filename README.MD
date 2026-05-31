@@ -34,11 +34,6 @@
 <p align="center">
   <img src="https://img.shields.io/badge/STATUS-ONLINE-00ff88?style=for-the-badge&logo=github" alt="STATUS ONLINE" />
   <img src="https://img.shields.io/badge/MODE-HACKER-ff2bd6?style=for-the-badge&logo=securityscorecard&logoColor=white" alt="HACKER MODE" />
-  <img src="https://img.shields.io/badge/FOCUS-APPSEC%20%7C%20PENTEST%20%7C%20RED%20TEAM-00d9ff?style=for-the-badge" alt="FOCUS" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Stars-%E2%98%85%20%E2%98%86%20%E2%98%85%20%E2%98%86%20%E2%98%85-ffb000?style=for-the-badge" alt="Stars" />
 </p>
 
 <table align="center" width="100%">
