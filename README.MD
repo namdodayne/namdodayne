@@ -35,10 +35,37 @@
 ## Stats
 
 <p align="center">
-  <a href="./stats.md">
-    <img src="https://img.shields.io/badge/Stats-Open%20Stats%20Page-blue?style=for-the-badge&logo=github" alt="Open stats page" />
-  </a>
+  <img src="https://img.shields.io/badge/STATUS-ONLINE-00ff88?style=for-the-badge&logo=github" alt="STATUS ONLINE" />
+  <img src="https://img.shields.io/badge/MODE-HACKER-ff2bd6?style=for-the-badge&logo=securityscorecard&logoColor=white" alt="HACKER MODE" />
+  <img src="https://img.shields.io/badge/FOCUS-APPSEC%20%7C%20PENTEST%20%7C%20RED%20TEAM-00d9ff?style=for-the-badge" alt="FOCUS" />
 </p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Stars-%E2%98%85%20%E2%98%86%20%E2%98%85%20%E2%98%86%20%E2%98%85-ffb000?style=for-the-badge" alt="Stars" />
+</p>
+
+<table align="center" width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>ACCESS GRANTED</h3>
+      <pre>
+┌─[ profile://namdodayne ]
+├─ security: enthusiast
+├─ mode: pentester in progress
+├─ toolkit: burp / claude / hermes / gcp
+└─ mission: learn • test • break • secure</pre>
+    </td>
+    <td width="50%" valign="top">
+      <h3>SYSTEM METRICS</h3>
+      <p>
+        <b>Status:</b> Learning &amp; Building<br/>
+        <b>Focus:</b> Web Security, AppSec, Red Team<br/>
+        <b>Signal:</b> High<br/>
+        <b>Noise:</b> Low<br/>
+      </p>
+    </td>
+  </tr>
+</table>
 
 ## Connect
 
