@@ -34,7 +34,13 @@
 ## 🧰 Tech & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=linux,bash,python,js,nodejs,react,git,github,vscode,aws" />
+  <img src="https://skillicons.dev/icons?i=linux,bash,python,js,nodejs,git,github,vscode,gcp" />
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" alt="Burp Suite" />
+  <img src="https://img.shields.io/badge/Claude-181717?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude" />
+  <img src="https://img.shields.io/badge/Hermes%20Agent-6E56CF?style=for-the-badge&logo=genericdatascience&logoColor=white" alt="Hermes Agent" />
 </p>
 
 ## 🧠 Currently Exploring
@@ -47,8 +53,9 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=namdodayne&show_icons=true&theme=radical" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=namdodayne&layout=compact&theme=radical" height="160" />
+  <a href="./stats.md">
+    <img src="https://img.shields.io/badge/GitHub%20Stats-Open%20Stats%20Page-blue?style=for-the-badge&logo=github" alt="Open stats page" />
+  </a>
 </p>
 
 ## 📫 Connect
