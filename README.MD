@@ -15,20 +15,12 @@
 
 ---
 
-## Security Focus
+## 🛡️ Security & Growth
 
-- Web Application Security
-- Pentesting & Red Team basics
-- Vulnerability research
-- Secure coding awareness
-- CTFs and hands-on labs
-
-## What I'm Working On
-
-- Improving my offensive security workflow
-- Building a stronger AppSec mindset
-- Practicing lab-based enumeration and exploitation
-- Documenting findings and writeups
+- 🔎 Web security, AppSec, and red team basics
+- 🧪 Lab practice, CTFs, and vuln research
+- 🧱 Threat modeling, secure design, and defensive awareness
+- 📚 Learning, testing, breaking, securing, repeating
 
 ## Tech & Tools
 
@@ -39,13 +31,6 @@
 <p align="left">
   <img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" alt="Burp Suite" />
 </p>
-
-## Currently Exploring
-
-- Threat modeling
-- Web exploitation techniques
-- Secure architecture
-- Defensive awareness for real-world systems
 
 ## Stats
 
