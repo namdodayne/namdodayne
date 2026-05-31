@@ -5,24 +5,19 @@
 </p>
 
 <p align="center">
-  Focused on <b>Web Security</b>, <b>Application Security</b>, and a strong <b>red team mindset</b>.<br/>
-  Currently learning Information Assurance and improving hands-on offensive security skills.
-</p>
-
-<p align="center">
   <img src="https://img.shields.io/badge/Security-AppSec%20%7C%20Pentest%20%7C%20Red%20Team-red?style=for-the-badge" alt="Security Badge" />
 </p>
 
 ---
 
-## 🛡️ Security & Growth
+## Security & Growth
 
 - 🔎 Web security, AppSec, and red team basics
 - 🧪 Lab practice, CTFs, and vuln research
 - 🧱 Threat modeling, secure design, and defensive awareness
 - 📚 Learning, testing, breaking, securing, repeating
 
-## Tech & Tools
+## Tech
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=linux,bash,python,js,nodejs,git,github,vscode,gcp" />
