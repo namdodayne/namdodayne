@@ -25,6 +25,8 @@
 
 <p align="left">
   <img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" alt="Burp Suite" />
+  <img src="https://img.shields.io/badge/Claude-000000?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude" />
+  <img src="https://img.shields.io/badge/Hermes%20Agent-111111?style=for-the-badge&logo=github&logoColor=white" alt="Hermes Agent" />
 </p>
 
 ## Stats
